@@ -1,4 +1,7 @@
-# 3D-View-of-Bus-with-WebGL
+# 3D View of Bus with WebGL
 
-Demo Video Link:
-https://youtu.be/q6RFP959pr0
+## Language: 
+
+HTML, JavaScript using WebGL
+
+### Demo Video Link: https://youtu.be/q6RFP959pr0
