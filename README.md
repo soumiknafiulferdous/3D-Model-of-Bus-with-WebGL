@@ -1,4 +1,4 @@
-# 3D View of Bus with WebGL
+# 3D Model of Bus with WebGL
 
 ## Language
 
