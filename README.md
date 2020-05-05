@@ -1,10 +1,10 @@
 # 3D View of Bus with WebGL
 
-## Language: 
+## Language
 
 HTML, JavaScript using WebGL
 
-## Features:
+## Features
 1. Indices and Colors
 2. MVP (Model, View and Perspective)
 3. Mouse event and Key-press event
