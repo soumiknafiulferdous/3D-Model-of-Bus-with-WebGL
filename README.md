@@ -3,7 +3,9 @@
 ## Requirements
 
 IDE: Notepad++
+
 Browser: Google Chrome
+
 Language: HTML, JavaScript using WebGL
 
 
