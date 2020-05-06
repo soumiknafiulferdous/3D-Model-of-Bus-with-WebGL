@@ -10,4 +10,4 @@ HTML, JavaScript using WebGL
 3. Mouse event and Key-press event
 4. Texture mapping
 
-### Demo Video Link: https://youtu.be/q6RFP959pr0
+### Demo Video: https://youtu.be/q6RFP959pr0
