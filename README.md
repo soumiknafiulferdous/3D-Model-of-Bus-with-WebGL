@@ -1,8 +1,11 @@
 # 3D Model of Bus with WebGL
 
-## Language
+## Requirements
 
-HTML, JavaScript using WebGL
+IDE: Notepad++
+Browser: Google Chrome
+Language: HTML, JavaScript using WebGL
+
 
 ## Features
 1. Indices and Colors
