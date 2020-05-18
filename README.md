@@ -35,6 +35,4 @@ View 5:
 View 5:
 <img width="1280" alt="View 6" src="https://user-images.githubusercontent.com/30154496/82178168-2e59b400-98fd-11ea-9cff-5ff7c9ec5230.png">
 
-
-
 ### Demo Video: https://youtu.be/q6RFP959pr0
