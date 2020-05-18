@@ -32,11 +32,14 @@ View 4:
 View 5:
 ![View 5](https://user-images.githubusercontent.com/30154496/82178166-2c8ff080-98fd-11ea-9df1-604cedb89fa7.png)
 
-View 5:
+View 6:
 <img width="1280" alt="View 6" src="https://user-images.githubusercontent.com/30154496/82178168-2e59b400-98fd-11ea-9cff-5ff7c9ec5230.png">
 
-View 6:
+Full View:
+
 ![Full View](https://user-images.githubusercontent.com/30154496/82178384-a4f6b180-98fd-11ea-94d8-8a372107fdc5.jpg)
+
+Full View:
 
 ![BUS](https://user-images.githubusercontent.com/30154496/82178599-2fd7ac00-98fe-11ea-99a8-2fb4db4bcaef.jpg)
 
