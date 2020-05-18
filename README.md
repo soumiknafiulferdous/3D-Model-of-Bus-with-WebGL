@@ -39,9 +39,5 @@ Full View:
 
 ![Full View](https://user-images.githubusercontent.com/30154496/82178384-a4f6b180-98fd-11ea-94d8-8a372107fdc5.jpg)
 
-Full View:
-
-![BUS](https://user-images.githubusercontent.com/30154496/82178599-2fd7ac00-98fe-11ea-99a8-2fb4db4bcaef.jpg)
-
 
 ### Demo Video: https://youtu.be/q6RFP959pr0
